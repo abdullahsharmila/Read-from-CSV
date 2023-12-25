@@ -29,7 +29,7 @@ print('number of columns:',len(f.axes[1]))
 
 ## OUTPUT:
 ![Alt text](image-1.png)
-![Alt text](image.png)
+![Alt text](image-2.png)
 
 
 ## RESULT:
